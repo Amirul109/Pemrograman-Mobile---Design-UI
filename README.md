@@ -1,4 +1,4 @@
-# Pemrograman-Mobile---Design-UI/Themes bebas
+# Pemrograman-Mobile---Design-UI/UX Themes
 # ========================
 # Nama : Amirul Mu'minin
 # Kelas : Ti.21.C2
@@ -8,6 +8,10 @@
 # Halaman 1
 
 ![Mobile Halaman 1](https://user-images.githubusercontent.com/116171779/200162092-5a7ced77-3fff-4e68-b9c1-2ebb9d4424ef.png)
+
+# Halaman 2
+
+![Halaman ke 2](https://user-images.githubusercontent.com/116171779/200312606-07d9892f-b971-4a7e-bffe-702422e65abd.png)
 
 # Halaman 3 
 
